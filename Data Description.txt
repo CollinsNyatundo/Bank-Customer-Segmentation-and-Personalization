@@ -1,0 +1,17 @@
+About this Dataset
+
+This dataset consists of 1 Million+ transaction by over 800K customers for a bank in India. The data contains information such as - customer age (DOB), location, gender, account balance at the time of the transaction, transaction details, transaction amount, etc.
+
+Interesting Analysis Ideas
+
+The dataset can be used for different analysis, example -
+
+ 1. Perform Clustering / Segmentation on the dataset and identify popular customer groups along with their definitions/rules.
+
+ 2. Perform Location-wise analysis to identify regional trends in India.
+
+ 3. Perform transaction-related analysis to identify interesting trends that can be used by a bank to improve / optimize their user experiences.
+
+ 4. Customer Recency, Frequency, Monetary analysis.
+
+ 5. Network analysis or Graph analysis of customer data.
